@@ -24,3 +24,12 @@
 - **팀(10%)**: 긴 락업 + 점진적 베스팅 → 신뢰성 강화
 - **커뮤니티(10%)**: 초기 단기 매도 방지, 장기 성장에 맞춘 락업/베스팅 구조
 - **유동성(10%)**: 즉시 공급 가능 → 상장 직후 거래 안정성 보장
+
+## Wallet Addresses
+- Founders & Team: B38xwLZgzYuT72j6NzQh739hdwpzGGzaikY7wE7vj3RW
+- Development Fund: CQ8fcJCSN858QUWsceuNi87ginRCgKqfxXMyecattyrd
+- Ecosystem & Marketing: GXnvLwJazyTLVhMVrt58QNw9VJv5c6oTe49cgk7iicv
+- Partnerships: ABbji7tRFFRQAjLFBzoDEhQK5ZWJbUKLC793qihCTMVt
+- Community Airdrop: FZJJk8QwjRHQeqfAuhu6bff1wmPgdBaGQvK1hrTgBH3A
+- Treasury (Multisig): CTnMLpZFS4jjK1MRp48F9dJgS4wj44TNai7ff6sYMnA8
+- Liquidity Pool: 87BBV6DfvzkDLzZBeK8b1YDU4zUo48FqbDWu9xYabmG8
