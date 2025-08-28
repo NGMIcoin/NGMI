@@ -37,5 +37,5 @@
 - **Ecosystem & Marketing**: `GXnvLwJazyTLVhMVrt58QNw9VJv5c6oTe49cgk7iicv`  
 - **Partnerships**: `ABbji7tRFFRQAjLFBzoDEhQK5ZWJbUKLC793qihCTMVt`  
 - **Community Airdrop**: `FZJJk8QwjRHQeqfAuhu6bff1wmPgdBaGQvK1hrTgBH3A`  
-- **Treasury (Multisig)**: `CTnMLpZFS4jjK1MRp48F9dJgS4wj44TNai7ff6sYMnA8`  
+- **Treasury (Multisig)**: `AmMP254Zt8cRHX6Jx4kETiaFm6yYTQGVgP2NjvMm4TKF`  
 - **Liquidity Pool**: `87BBV6DfvzkDLzZBeK8b1YDU4zUo48FqbDWu9xYabmG8`  
