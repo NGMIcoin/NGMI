@@ -19,7 +19,7 @@ Our mission: **Turn failure into fun, and FOMO into culture.**
 ## 3. Tokenomics
 
 ### Total Supply  
-**1,000,000,000 NGMI** (1 Billion)
+**10,000,000,000 NGMI** (10 Billion)
 
 ### Allocation  
 | Allocation              | %   | Lockup & Vesting                                                                 |
