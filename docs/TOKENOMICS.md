@@ -2,7 +2,7 @@
 
 ## Basic Information
 - **Token Name**: NGMI  
-- **Total Supply**: 1,000,000,000 (10 Billion)  
+- **Total Supply**: 1,000,000,000 (1 Billion)  
 - **Decimals**: 9  
 - **Standard**: SPL (Solana)  
 
