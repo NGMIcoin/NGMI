@@ -6,7 +6,7 @@ NGMI is a Solana-based meme token that turns failure into fun.
 - **Chain**: Solana Mainnet
 - **Standard**: SPL
 - **Decimals**: 9
-- **Contract Address**: DU4X7krz7t4ivMZDZDmbf8BbwyQw84cMXvvqyWP9oUhD
+- **Contract Address**: A1YdEvt1Ca9bSCSsuyarqfnLmP46rYKjdhVLNdnf3U1P
 - **Total Supply**: 10,000,000,000 NGMI
 
 ## Documents
