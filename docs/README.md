@@ -6,7 +6,7 @@ NGMI is a Solana-based meme token that turns failure into fun.
 - **Chain**: Solana Mainnet
 - **Standard**: SPL
 - **Decimals**: 9
-- **Contract Address**: (발급 후 기재)
+- **Contract Address**: DU4X7krz7t4ivMZDZDmbf8BbwyQw84cMXvvqyWP9oUhD
 - **Total Supply**: 10,000,000,000 NGMI
 
 ## Documents
@@ -17,8 +17,10 @@ NGMI is a Solana-based meme token that turns failure into fun.
 ## Security & Transparency
 - Mint Authority: (Multisig pubkey or Disabled)
 - Freeze Authority: Disabled
-- LP Lock Policy: (멀티시그/타임락/락 서비스 명시)
-- Initial Distribution TX: (Solscan 링크)
+- LP Lock Policy: LP Lock Policy: NGMI liquidity pool tokens are locked to prevent rug-pulls. 
+The LP tokens are secured under a time-lock contract with public verification on Solscan. 
+Additionally, treasury and liquidity allocations are managed via multi-sig for transparency and community trust.
+- Initial Distribution TX: [(https://solscan.io/account/CTnMLpZFS4jjK1MRp48F9dJgS4wj44TNai7ff6sYMnA8)]
 
 ## Official Links
 - Website: (추가 예정)
