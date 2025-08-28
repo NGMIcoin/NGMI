@@ -1,6 +1,6 @@
 # NGMI (Not Gonna Make It)
 
-🚀 NGMI is a Solana-based meme token that turns failure into fun.
+NGMI is a Solana-based meme token that turns failure into fun.
 
 ## Token Info
 - **Chain**: Solana Mainnet
