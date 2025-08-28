@@ -20,7 +20,7 @@ NGMI is a Solana-based meme token that turns failure into fun.
 - LP Lock Policy: NGMI liquidity pool tokens are locked to prevent rug-pulls. 
 The LP tokens are secured under a time-lock contract with public verification on Solscan. 
 Additionally, treasury and liquidity allocations are managed via multi-sig for transparency and community trust.
-- Initial Distribution TX: [(https://solscan.io/account/CTnMLpZFS4jjK1MRp48F9dJgS4wj44TNai7ff6sYMnA8)]
+- Initial Distribution TX: [Solscan](https://solscan.io/account/CTnMLpZFS4jjK1MRp48F9dJgS4wj44TNai7ff6sYMnA8)
 
 ## Official Links
 - Website: (추가 예정)
