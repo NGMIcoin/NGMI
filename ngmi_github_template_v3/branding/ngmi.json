@@ -1,0 +1,11 @@
+{
+  "name": "NGMI",
+  "symbol": "NGMI",
+  "description": "Not Gonna Make It — the ultimate irony meme token.",
+  "image": "https://example.com/ngmi-logo.png",
+  "extensions": {
+    "twitter": "https://twitter.com/...",
+    "telegram": "https://t.me/...",
+    "discord": "https://discord.gg/..."
+  }
+}
