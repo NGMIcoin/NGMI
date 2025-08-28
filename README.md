@@ -7,7 +7,7 @@
 - **Standard**: SPL
 - **Decimals**: 9
 - **Contract Address**: (발급 후 기재)
-- **Total Supply**: 10,000,000,000 NGMI
+- **Total Supply**: 1,000,000,000 NGMI
 
 ## Documents
 - [Whitepaper](./docs/WHITEPAPER.md)
