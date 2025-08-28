@@ -1,11 +1,8 @@
 {
   "name": "NGMI",
   "symbol": "NGMI",
-  "description": "Not Gonna Make It — the ultimate irony meme token.",
-  "image": "https://example.com/ngmi-logo.png",
-  "extensions": {
-    "twitter": "https://twitter.com/...",
-    "telegram": "https://t.me/...",
-    "discord": "https://discord.gg/..."
-  }
+  "description": "NGMI (Not Gonna Make It) — irony-fueled meme token on Solana.",
+  "image": "https://raw.githubusercontent.com/NGMIcoin/NGMI/main/assets/ngmi.png",
+  "external_url": "https://github.com/NGMIcoin/NGMI",
+  "tags": ["meme", "solana", "community"]
 }
